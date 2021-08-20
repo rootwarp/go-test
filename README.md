@@ -1,3 +1,3 @@
 # go-test
 
-![badge](https://github.com/mackerelio/go-osstat/workflows/Build/badge.svg)
+![badge](https://github.com/rootwarp/go-test/workflows/unittest/badge.svg)
